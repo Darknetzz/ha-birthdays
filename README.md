@@ -36,8 +36,8 @@ You can also add a custom `unique_id` and attributes to each birthday, for insta
     date_of_birth: 1920-05-25
     icon: 'mdi:pistol'
     attributes:
-      occupation: "Agent"
-      license_to_kill: "Yes"
+      occupation: 'Agent'
+      license_to_kill: 'Yes'
   - unique_id: einstein
     name: 'Albert Einstein'
     date_of_birth: 1879-03-14
